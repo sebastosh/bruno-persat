@@ -1,13 +1,9 @@
-body {
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond&display=swap');
+
+img{width:100%;}
+
+a, a:visited{
   font-family: 'EB Garamond', serif;
   color: #FF0000;
-}
-
-a {
-  color: #FF0000;
   text-decoration: none;
-}
-
-a:hover {
-  color: #FF0000;
 }
